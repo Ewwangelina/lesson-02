@@ -1,0 +1,119 @@
+*{
+    margin: 0px; 
+}
+
+.body { 
+    font-family: 'Tahoma', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.container { 
+    width: 1040px;
+    margin: 0 auto;
+}
+
+.logo {
+    margin-top: 33px;
+}
+
+.menu {
+    margin-top: 50px;
+    margin-bottom: 47px;
+}
+
+.header { 
+    padding-top: 32px;
+    padding-bottom: 50px;
+    background-color: #343B42;
+    background-image: url(./img/foto-head.jpg);
+    background-position: right top;
+    background-repeat: no-repeat;
+}
+
+.menu a { 
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-transform: none;
+    margin-right: 36px;
+    margin-bottom: 47px;
+}
+
+
+.link-con {
+    font-size: 14px;
+    line-height: 17px;
+    align-items: center;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #62D0DF;
+    padding: 10px 50px;
+}
+
+.title { 
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 53px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    margin-top: 64px;
+    margin-right: 640px;
+}
+
+.text-title { 
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    color: #D6D6D6;
+    width: 505px;
+    margin-top: 46px;
+    text-transform: none;
+    margin-bottom: 53px;
+    }
+
+.bottom { 
+    margin-top: 31px;
+}
+
+
+.link-who { 
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    align-items: center;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #F9B640;
+    padding: 10px 50px;
+}
+
+.link-i { 
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    align-items: center;
+    letter-spacing: 0.1em;
+    color: #FAB63E;
+    text-decoration: none;
+    text-transform: uppercase;    
+}
+
+.blue { 
+    background: #62D0DF;
+    padding-bottom: 78px;
+}
+
+.title-blue { 
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 53px;
+    color: #000000;
+    text-transform: uppercase;
+    padding-top: 64px;
+    padding-bottom: 45px;
+}
